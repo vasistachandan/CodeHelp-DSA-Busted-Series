@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// Hero file  can also be included like this #include "Hero.cpp"
 
 class Hero {
     
