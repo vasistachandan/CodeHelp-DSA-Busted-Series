@@ -1,5 +1,5 @@
 class Hero {
     public:
-    int health;
+    int health;  // thse are data members
     char level;
 };
