@@ -98,25 +98,13 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
-    // //Static
+    // Static
     // Hero a;
 
     // //Dynamic
     // Hero *b = new Hero();
-    // //manually destructor call
+    // manually destructor call
     // delete b;
-
-
-
 
 
 
@@ -128,9 +116,9 @@ int main() {
 //     char name[7] = "Babbar";
 //     hero1.setName(name);
 
-//     //hero1.print();
+//     hero1.print();
 
-//     //use default copy constructor
+//     use default copy constructor
 
 //     Hero hero2(hero1);
 //     hero2.print();
