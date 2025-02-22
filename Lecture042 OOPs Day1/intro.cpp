@@ -137,19 +137,6 @@ int main() {
 
 
     
-
-
-
-
-
-
-
-
-
-
-
-
-
     // //Hero tt;
 
     // //object created statically
@@ -163,17 +150,6 @@ int main() {
 
     // Hero temp(22, 'B');
     // temp.print();
-
-
-
-
-
-
-
-
-
-
-
 
 
 
