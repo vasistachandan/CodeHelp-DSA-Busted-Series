@@ -133,8 +133,8 @@ int main() {
 //     //use default copy constructor
 
 //     Hero hero2(hero1);
-//     //hero2.print();
-// //    Hero hero2 = hero1;
+//     hero2.print();
+//     Hero hero2 = hero1;
 
 //     hero1.name[0] = 'G';
 //     hero1.print();
